@@ -18,5 +18,5 @@
 
 ### 📫 Как со мной связаться
 * **Telegram:** https://t.me/killthatveli
-* **Email:** mamurzaevveli12345@gmail.com
+* **Email:** mamurzaevveli12345@gmail.com 
 
