@@ -9,8 +9,7 @@
 Здесь собраны инструменты, с которыми я работаю ежедневно:
 
 * **Языки:** * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-* **Работа с данными:**
-    * ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+* **Работа с данными:** * ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 * **Специализированные навыки:**
     * **ЭДО:** Работа в системе **Диадок**.
     * **Мониторинг:** Опыт работы с платформой **Omnicomm**.
