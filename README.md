@@ -21,8 +21,9 @@
 * **Email:** mamurzaevveli12345@gmail.com
 
 
+
+
  `What do you think my brain is made for?`  
  `Is it just a container for the mind?` 
- `This great grey matter`
 
 
