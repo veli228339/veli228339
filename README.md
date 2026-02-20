@@ -28,18 +28,7 @@
 > ### 01010111 01101000 01100001 01110100
 > ***
 > `What do you think my brain is made for?`  
-> *Is it just a container for the mind?* > **T H I S  G R E A T  G R E Y  M A T T E R .**
+> *Is it just a container for the mind?* > **This great grey matter**
 > ***
 
----
 
-### 🛠 Tech Stack & Interests
-* **Cognitive Computing** / Machine Learning
-* **Data Architecture** / Systems Design
-* **Philosophy of Code**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=NEURAL%20CONNECTIONS&color=555555&style=flat-square" alt="activity" />
-</p>
