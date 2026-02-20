@@ -23,7 +23,7 @@
 
 
 
- `What do you think my brain is made for?`  
- `Is it just a container for the mind?` 
+ `i don't wanna sleep`  
+ `i just wanna keep on lovin' you` 
 
 
