@@ -21,14 +21,8 @@
 * **Email:** mamurzaevveli12345@gmail.com
 
 
-
-# 🧠 Neural Explorations
-
-> [!IMPORTANT]
-> ### 01010111 01101000 01100001 01110100
-> ***
-> `What do you think my brain is made for?`  
-> *Is it just a container for the mind?* > **This great grey matter**
-> ***
+ `What do you think my brain is made for?`  
+ *Is it just a container for the mind?* 
+ *This great grey matter*
 
 
